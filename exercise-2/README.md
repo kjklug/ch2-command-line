@@ -1,4 +1,4 @@
-# Exercise 2
+# Exercise 2 from in-person INFX 511
 In this exercise you'll practice making a simple shell script.
 
 To complete the exercise, follow the below instructions:
